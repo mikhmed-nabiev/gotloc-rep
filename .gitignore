@@ -1,0 +1,15 @@
+.vscode
+
+__pycache__
+
+wandb/*
+
+*.db
+*.db.lock
+
+cache/*
+00-osmnx-features-demo.ipynb
+OSM scene graph.png
+Text Scene Graph_vs_Top-1 Cell Scene Graph.png
+Text scene graph.png
+data/*
